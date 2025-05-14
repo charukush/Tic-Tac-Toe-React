@@ -1,4 +1,4 @@
-import { GameBloard } from "./compoments/GameBoard";
+import GameBoard from "./compoments/GameBoard";
 import { PlayerInfo } from "./compoments/PlayerInfo";
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
           <PlayerInfo name = "Player 2" symbol="O"  />
        
         </ol>
-        <GameBloard />
+        <GameBoard />
       </div>
     </main>
   );
