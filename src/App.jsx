@@ -1,5 +1,5 @@
 import GameBoard from "./compoments/GameBoard";
-import { PlayerInfo } from "./compoments/PlayerInfo";
+import PlayerInfo from "./compoments/PlayerInfo";
 
 function App() {
   return (
